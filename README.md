@@ -16,4 +16,9 @@
 
 **lesson_4.2** - Scikit-learn overview, k-means clustering, save and reuse a trained model
 
+**lesson_5.1** - Cluster prediction for an individual input, linear regression (Part I - Medical charges)
+
+**lesson_5.2** - Linear regression (Part II - Medical charges), in-class exercise: EDA + k-means clustering + multiple linear regression (Concrete dataset)
+
+
 N.b. In the lesson numbering, the 1<sup>st</sup> number corresponds to the week in the TB, the 2<sup>nd</sup> number corresponds to the lesson in a week (can only be 1 or 2). For instance, lesson_3.2 is the 2<sup>nd</sup> sutorial (Thursday) in the 3<sup>rd</sup> teaching week.
