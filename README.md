@@ -4,7 +4,7 @@
 
 **lesson_1.2** - Python arithmetic operators, data types, comparison operators, logical operators, string data type, flow control with `if-else` condition, flow control with `if-elif-else` condition with in-class exercise
 
-**lesson_2.1** - Code readability, `whyle` loop, `for` loop, loop control, complex data types, functions, importing libraries, Matplotlib
+**lesson_2.1** - Code readability, `while` loop, `for` loop, loop control, complex data types, functions, importing libraries, Matplotlib
 
 **lesson_2.2** - Loop control (`pass`, `break`, `continue`), define and call a function, variable scope, CRISP-DM methodology, Machine Learning (ML) pipeline, NumPy
 
@@ -20,5 +20,9 @@
 
 **lesson_5.2** - Linear regression (Part II - Medical charges), in-class exercise: EDA + k-means clustering + multiple linear regression (Concrete dataset)
 
+**lesson_6.1** - Decision tree ML model
 
-N.b. In the lesson numbering, the 1<sup>st</sup> number corresponds to the week in the TB, the 2<sup>nd</sup> number corresponds to the lesson in a week (can only be 1 or 2). For instance, lesson_3.2 is the 2<sup>nd</sup> sutorial (Thursday) in the 3<sup>rd</sup> teaching week.
+**lesson_6.2** - Neural Network for linear regression
+
+
+N.b. In the lesson numbering, the 1<sup>st</sup> number corresponds to the week in the TB, the 2<sup>nd</sup> number corresponds to the lesson in a week (can only be 1 or 2). For instance, lesson_3.2 is the 2<sup>nd</sup> tutorial (Thursday) in the 3<sup>rd</sup> teaching week.
